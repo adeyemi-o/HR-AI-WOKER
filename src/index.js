@@ -1,5 +1,5 @@
 const MODELS = {
-  chat: "@cf/meta/llama-3-8b-instruct",
+  chat: "@cf/meta/llama-3.1-8b-instruct-fp8",
   reasoning: "@cf/deepseek/deepseek-r1-distill-qwen-32b",
   embedding: "@cf/baai/bge-large-en-v1.5",
 };
